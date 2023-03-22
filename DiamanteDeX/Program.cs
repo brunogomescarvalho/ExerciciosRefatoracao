@@ -7,39 +7,41 @@ namespace DiamanteDeX
         static int QuantidadeXLinhaCentral;
         static int QuantidadeXPorLinha;
         static int PosicaoPrimeiroX;
-        static bool Continuar = true;
 
         public static void Main(string[] args)
         {
-            while (Continuar)
+            while (true)
             {
-                QuantidadeXLinhaCentral = ReceberTamanhoTriangulo();
+                SolicitarTamanhoDiamante();
 
                 if (!EhNumeroImpar())
                     continue;
 
-                CriarTrianguloSuperior();
-                CriarLinhaCentral();
-                CriarTrianguloInferior();
-                Console.ReadKey();
-
+                CriarDiamante();
             }
-
         }
 
-        static int ReceberTamanhoTriangulo()
+        static void CriarDiamante()
+        {
+            CriarTrianguloSuperior();
+            CriarLinhaCentral();
+            CriarTrianguloInferior();
+            Console.ReadKey();
+        }
+
+        static void SolicitarTamanhoDiamante()
         {
             Console.Clear();
             Console.WriteLine("--- Triângulo de X ---\n");
-            Console.WriteLine("Informe o tamanho do triângulo que gostaria de construir");
-            return Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Informe o tamanho do diamante que gostaria de construir!");
+            QuantidadeXLinhaCentral = Convert.ToInt32(Console.ReadLine());
         }
 
         static bool EhNumeroImpar()
         {
             if (QuantidadeXLinhaCentral % 2 == 0)
             {
-                Console.WriteLine("\nPara que o triângulo seja criado com sucesso o número precisa ser ímpar");
+                Console.WriteLine("\nPara que o diamante seja criado com sucesso, o número precisa ser ímpar");
                 Console.ReadKey();
                 return false;
             }
