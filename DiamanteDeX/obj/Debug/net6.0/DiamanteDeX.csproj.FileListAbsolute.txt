@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.AssemblyInfo.cs
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\bin\Debug\net6.0\DiamanteDeX.exe
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\bin\Debug\net6.0\DiamanteDeX.deps.json
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\bin\Debug\net6.0\DiamanteDeX.runtimeconfig.json
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\bin\Debug\net6.0\DiamanteDeX.dll
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\bin\Debug\net6.0\DiamanteDeX.pdb
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.dll
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\refint\DiamanteDeX.dll
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.pdb
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\DiamanteDeX.genruntimeconfig.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\DiamanteDeX\obj\Debug\net6.0\ref\DiamanteDeX.dll

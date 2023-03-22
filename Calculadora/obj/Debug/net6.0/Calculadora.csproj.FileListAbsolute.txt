@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\AP\Modulo_1\07- Exercicios_Refatoracao\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

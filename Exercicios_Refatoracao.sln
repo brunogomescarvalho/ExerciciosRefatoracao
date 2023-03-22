@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{AA9413A3-3ABA-4F96-959B-8679A668FFAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamanteDeX", "DiamanteDeX\DiamanteDeX.csproj", "{65F98E04-6E41-400D-940A-8BC59B1FEB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA9413A3-3ABA-4F96-959B-8679A668FFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9413A3-3ABA-4F96-959B-8679A668FFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9413A3-3ABA-4F96-959B-8679A668FFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9413A3-3ABA-4F96-959B-8679A668FFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F98E04-6E41-400D-940A-8BC59B1FEB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F98E04-6E41-400D-940A-8BC59B1FEB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F98E04-6E41-400D-940A-8BC59B1FEB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F98E04-6E41-400D-940A-8BC59B1FEB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
